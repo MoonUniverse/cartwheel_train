@@ -188,7 +188,7 @@ if __name__ == '__main__':
 
     nP = 6
     nN = 6
-    netvlad_num_clusters = 16
+    netvlad_num_clusters = 32
 
     initial_epoch = 0 # for resuming training. If this is a non-zero value will load the corresponding model from log_dir
     n_samples = 500 #< training sames to load for the epoch
