@@ -6,9 +6,6 @@
     - Keras sequence use
 
     All the configurable things are in this file itself.
-
-        Author  : Manohar Kuse <mpkuse@connect.ust.hk>
-        Created : 15th Oct, 2018
 """
 
 
