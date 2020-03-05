@@ -221,8 +221,8 @@ if __name__ == '__main__':
     int_logr = InteractiveLogger( LOG_DIR )
 
     #---
-    PITS_PATH = '/Bulk_Data/data_Akihiko_Torii/Pitssburg/'
-    PITS_VAL_PATH = '/Bulk_Data/data_Akihiko_Torii/Pitssburg_validation/'
+    PITS_PATH = '/home/tmirobot/Documents/place-recognition/PittsburgData/Pitssburg/'
+    PITS_VAL_PATH = '/home/tmirobot/Documents/place-recognition/PittsburgData/Pitssburg_validation/'
 
 
 
